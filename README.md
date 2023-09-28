@@ -6,7 +6,7 @@
 
 Вы можете установить эту библиотеку с помощью pip:
 
-pip install area
+`pip install area`
 
 
 ## Использование
